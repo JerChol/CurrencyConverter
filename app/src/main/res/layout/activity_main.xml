@@ -1,19 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:id="@+id/TextView_viewXML"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <EditText
+            android:id="@+id/editTextCurrencyToChange"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:hint="@string/AmountToBeConverted"
+            android:inputType="numberDecimal"
+            android:padding="10dp"
+            android:textAlignment="viewEnd"
+            android:textColorHint="#757575"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editTextCurrencyToChangeRate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:hint="@string/CurrencyToChangeRate"
+            android:inputType="numberDecimal"
+            android:minHeight="48dp"
+            android:padding="10dp"
+            android:textAlignment="viewEnd"
+            android:textColorHint="#757575"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toStartOf="@+id/editTextCurrencyToChangeToRate"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editTextCurrencyToChange" />
+
+        <EditText
+            android:id="@+id/editTextCurrencyToChangeToRate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:hint="@string/CurrencyToChangeToRate"
+            android:inputType="numberDecimal"
+            android:minHeight="48dp"
+            android:padding="10dp"
+            android:textAlignment="viewEnd"
+            android:textColorHint="#757575"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/editTextCurrencyToChangeRate"
+            app:layout_constraintTop_toBottomOf="@+id/editTextCurrencyToChange" />
+
+        <Button
+            android:id="@+id/buttonConvert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/convert"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editTextCurrencyToChangeToRate" />
+
+        <TextView
+            android:id="@+id/editTextCurrencyToChangeTo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:hint="@string/ConvertedAmount"
+            android:minHeight="48dp"
+            android:padding="10dp"
+            android:textAlignment="viewEnd"
+            android:textColor="@color/design_default_color_primary"
+            android:textColorHint="#757575"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonConvert" />
+
+        <TextView
+            android:id="@+id/TextView_viewXML"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginEnd="32dp"
+            android:text="Hello World!"
+            android:textSize="20sp"
+            app:layout_constraintTop_toBottomOf="@+id/editTextCurrencyToChangeTo"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

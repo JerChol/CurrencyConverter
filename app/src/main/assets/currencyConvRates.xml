@@ -1,0 +1,2261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <!--
+        - name is the name of the country
+        - currency is the name of the currency
+        - currencyAbb is the currency abbreviation
+        - currencySymbol is the symbol of the currency
+        - convRate is the rate of conversion of the 1 USD to its equivalent in the selected currency
+        - revConvRate is the rate of conversion of the selected currency to 1 USD
+     -->
+
+    <!-- African Countries -->
+    <country>
+        <name>Algeria</name>
+        <currency>Algerian Dinar</currency>
+        <currencyAbb>DZD</currencyAbb>
+        <currencySymbol>دج</currencySymbol>
+        <convRate>145.17</convRate>
+        <revConvRate>0.00688855</revConvRate>
+    </country>
+
+    <country>
+        <name>Angola</name>
+        <currency>Angolan Kwanza</currency>
+        <currencyAbb>AOA</currencyAbb>
+        <currencySymbol>Kz</currencySymbol>
+        <convRate>407.39</convRate>
+        <revConvRate>0.00245461</revConvRate>
+    </country>
+
+    <country>
+        <name>Benin</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>621.15</convRate>
+        <revConvRate>0.00160990</revConvRate>
+    </country>
+
+    <country>
+        <name>Botswana</name>
+        <currency>Botswanan Pula</currency>
+        <currencyAbb>BWP</currencyAbb>
+        <currencySymbol>P</currencySymbol>
+        <convRate>12.04</convRate>
+        <revConvRate>0.0830046</revConvRate>
+    </country>
+
+    <country>
+        <name>Burkina Faso</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>CFA</currencyAbb>
+        <currencySymbol>XOF</currencySymbol>
+        <convRate>621.23</convRate>
+        <revConvRate>0.00160970</revConvRate>
+    </country>
+
+    <country>
+        <name>Burundi</name>
+        <currency>Burundian Franc</currency>
+        <currencyAbb>BIF</currencyAbb>
+        <currencySymbol>FBu</currencySymbol>
+        <convRate>2042.66</convRate>
+        <revConvRate>0.000489557</revConvRate>
+    </country>
+
+    <country>
+        <name>Cameroon</name>
+        <currency>Central African CFA Franc</currency>
+        <currencyAbb>XFA</currencyAbb>
+        <currencySymbol>FCFA</currencySymbol>
+        <convRate>621.23</convRate>
+        <revConvRate>0.00160970</revConvRate>
+    </country>
+
+    <country>
+        <name>Cape Verde</name>
+        <currency>Cape Verdean Escudo</currency>
+        <currencyAbb>CVE</currencyAbb>
+        <currencySymbol>Esc</currencySymbol>
+        <convRate>104.65</convRate>
+        <revConvRate>0.00955577</revConvRate>
+    </country>
+
+    <country>
+        <name>Central African Republic</name>
+        <currency>Central African CFA Franc</currency>
+        <currencyAbb>XFA</currencyAbb>
+        <currencySymbol>FCFA</currencySymbol>
+        <convRate>622.52</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Chad</name>
+        <currency>Central African CFA Franc</currency>
+        <currencyAbb>XFA</currencyAbb>
+        <currencySymbol>FCFA</currencySymbol>
+        <convRate>622.52</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Comoros</name>
+        <currency>Comorian Franc</currency>
+        <currencyAbb>KMF</currencyAbb>
+        <currencySymbol>CF</currencySymbol>
+        <convRate>466.88909</convRate>
+        <revConvRate>0.00214184</revConvRate>
+    </country>
+
+    <country>
+        <name>Congo-Brazzaville</name>
+        <currency>Central African CFA Franc</currency>
+        <currencyAbb>XFA</currencyAbb>
+        <currencySymbol>FCFA</currencySymbol>
+        <convRate>622.52</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Congo-Kinshasa</name>
+        <currency>Congolese Franc</currency>
+        <currencyAbb>CDF</currencyAbb>
+        <currencySymbol>CF</currencySymbol>
+        <convRate>2006.4481</convRate>
+        <revConvRate>0.000498393</revConvRate>
+    </country>
+
+    <country>
+        <name>Côte d’Ivoire</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>622.52</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Djibouti</name>
+        <currency>Djiboutian Franc</currency>
+        <currencyAbb>DJF</currencyAbb>
+        <currencySymbol>DF</currencySymbol>
+        <convRate>177.77723</convRate>
+        <revConvRate>0.00562502</revConvRate>
+    </country>
+
+    <country>
+        <name>Egypt</name>
+        <currency>Egyptian Pound</currency>
+        <currencyAbb>EGP</currencyAbb>
+        <currencySymbol>E£</currencySymbol>
+        <convRate>18.484677</convRate>
+        <revConvRate>0.0540989</revConvRate>
+    </country>
+
+    <country>
+        <name>Equatorial Guinea</name>
+        <currency>Central African CFA Franc</currency>
+        <currencyAbb>XAF</currencyAbb>
+        <currencySymbol>FCFA</currencySymbol>
+        <convRate>622.52</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Eritrea</name>
+        <currency>Eritrean Nakfa</currency>
+        <currencyAbb>ERN</currencyAbb>
+        <currencySymbol>Nfk</currencySymbol>
+        <convRate>15.00</convRate>
+        <revConvRate>0.00666667</revConvRate>
+    </country>
+
+    <country>
+        <name>Eswatini</name>
+        <currency>Swazi Lilangeni</currency>
+        <currencyAbb>SZL</currencyAbb>
+        <currencySymbol>E</currencySymbol>
+        <convRate>15.990633</convRate>
+        <revConvRate>0.0625366</revConvRate>
+    </country>
+
+    <country>
+        <name>Ethiopia</name>
+        <currency>Ethiopian Birr</currency>
+        <currencyAbb>ETB</currencyAbb>
+        <currencySymbol>Br</currencySymbol>
+        <convRate>51.538644</convRate>
+        <revConvRate>0.0194029</revConvRate>
+    </country>
+
+    <country>
+        <name>Gabon</name>
+        <currency>Central African CFA Franc</currency>
+        <currencyAbb>XAF</currencyAbb>
+        <currencySymbol>FCFA</currencySymbol>
+        <convRate>622.52</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Gambia</name>
+        <currency>Gambian Dalasi</currency>
+        <currencyAbb>GMD</currencyAbb>
+        <currencySymbol>D</currencySymbol>
+        <convRate>53.890016</convRate>
+        <revConvRate>0.0185563</revConvRate>
+    </country>
+
+    <country>
+        <name>Ghana</name>
+        <currency>Ghanaian Cedi</currency>
+        <currencyAbb>GHS</currencyAbb>
+        <currencySymbol>GH₵</currencySymbol>
+        <convRate>7.5210018</convRate>
+        <revConvRate>0.0132961</revConvRate>
+    </country>
+
+    <country>
+        <name>Guinea</name>
+        <currency>Guinean Franc</currency>
+        <currencyAbb>GNF</currencyAbb>
+        <currencySymbol>FG</currencySymbol>
+        <convRate>8830.2854</convRate>
+        <revConvRate>0.000113247</revConvRate>
+    </country>
+
+    <country>
+        <name>Guinea-Bissau</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>622.51879</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Kenya</name>
+        <currency>Kenyan Shilling</currency>
+        <currencyAbb>KES</currencyAbb>
+        <currencySymbol>Ksh</currencySymbol>
+        <convRate>115.95548</convRate>
+        <revConvRate>0.00862400</revConvRate>
+    </country>
+
+    <country>
+        <name>Lesotho</name>
+        <currency>Lesotho Loti</currency>
+        <currencyAbb>LSL</currencyAbb>
+        <currencySymbol>M</currencySymbol>
+        <convRate>15.990633</convRate>
+        <revConvRate>0.0625366</revConvRate>
+    </country>
+
+    <country>
+        <name>Liberia</name>
+        <currency>Liberian Dollar</currency>
+        <currencyAbb>LRD</currencyAbb>
+        <currencySymbol>L$</currencySymbol>
+        <convRate>151.09365</convRate>
+        <revConvRate>0.00661841</revConvRate>
+    </country>
+
+    <country>
+        <name>Libya</name>
+        <currency>Libyan Dinar</currency>
+        <currencyAbb>LYD</currencyAbb>
+        <currencySymbol>ل.د</currencySymbol>
+        <convRate>4.7895543</convRate>
+        <revConvRate>0.208788</revConvRate>
+    </country>
+
+    <country>
+        <name>Madagascar</name>
+        <currency>Malagasy Ariary</currency>
+        <currencyAbb>MGA</currencyAbb>
+        <currencySymbol>Ar</currencySymbol>
+        <convRate>4019.93</convRate>
+        <revConvRate>0.000248760</revConvRate>
+    </country>
+
+    <country>
+        <name>Malawi</name>
+        <currency>Malawian Kwacha</currency>
+        <currencyAbb>MWK</currencyAbb>
+        <currencySymbol>MK</currencySymbol>
+        <convRate>814.27616</convRate>
+        <revConvRate>0.00122808</revConvRate>
+    </country>
+
+    <country>
+        <name>Mali</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>622.51879</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Mauritania</name>
+        <currency>Mauritanian Ouguiya</currency>
+        <currencyAbb>MRU</currencyAbb>
+        <currencySymbol>UM</currencySymbol>
+        <convRate>36.438911</convRate>
+        <revConvRate>0.0274432</revConvRate>
+    </country>
+
+    <country>
+        <name>Mauritius</name>
+        <currency>Mauritanian Rupee</currency>
+        <currencyAbb>MUR</currencyAbb>
+        <currencySymbol>Rs</currencySymbol>
+        <convRate>42.976938</convRate>
+        <revConvRate>0.0232683</revConvRate>
+    </country>
+
+    <country>
+        <name>Mayotte</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94902378</convRate>
+        <revConvRate>1.05371</revConvRate>
+    </country>
+
+    <country>
+        <name>Morocco</name>
+        <currency>Moroccan Dirham</currency>
+        <currencyAbb>MAD</currencyAbb>
+        <currencySymbol>د.م.</currencySymbol>
+        <convRate>10.007922</convRate>
+        <revConvRate>0.0999208</revConvRate>
+    </country>
+
+    <country>
+        <name>Mozambique</name>
+        <currency>Mozambican Metical</currency>
+        <currencyAbb>MZN</currencyAbb>
+        <currencySymbol>MT</currencySymbol>
+        <convRate>63.818534</convRate>
+        <revConvRate>0.0156694</revConvRate>
+    </country>
+
+    <country>
+        <name>Namibia</name>
+        <currency>Namibian Dollar</currency>
+        <currencyAbb>NAD</currencyAbb>
+        <currencySymbol>N$</currencySymbol>
+        <convRate>15.990633</convRate>
+        <revConvRate>0.0625366</revConvRate>
+    </country>
+
+    <country>
+        <name>Niger</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>622.51879</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Nigeria</name>
+        <currency>Nigerian Naira</currency>
+        <currencyAbb>NGN</currencyAbb>
+        <currencySymbol>₦</currencySymbol>
+        <convRate>415.13511</convRate>
+        <revConvRate>0.00240885</revConvRate>
+    </country>
+
+    <country>
+        <name>Rwanda</name>
+        <currency>Rwandan Franc</currency>
+        <currencyAbb>RWF</currencyAbb>
+        <currencySymbol>FRw</currencySymbol>
+        <convRate>1019.802</convRate>
+        <revConvRate>0.000980583</revConvRate>
+    </country>
+
+    <country>
+        <name>Réunion</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94902378</convRate>
+        <revConvRate>1.05371</revConvRate>
+    </country>
+
+    <country>
+        <name>Senegal</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>622.51879</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Seychelles</name>
+        <currency>Seychellois Rupee</currency>
+        <currencyAbb>SCR</currencyAbb>
+        <currencySymbol>SRe</currencySymbol>
+        <convRate>13.610538</convRate>
+        <revConvRate>0.0734725</revConvRate>
+    </country>
+
+    <country>
+        <name>Sierra Leone</name>
+        <currency>Sierra Leonean Leone</currency>
+        <currencyAbb>SLL</currencyAbb>
+        <currencySymbol>Le</currencySymbol>
+        <convRate>12638.439</convRate>
+        <revConvRate>0.0000791237</revConvRate>
+    </country>
+
+    <country>
+        <name>Somalia</name>
+        <currency>Somali Shilling</currency>
+        <currencyAbb>SOS</currencyAbb>
+        <currencySymbol>Sh.So.</currencySymbol>
+        <convRate>580.51643</convRate>
+        <revConvRate>0.00172260</revConvRate>
+    </country>
+
+    <country>
+        <name>South Africa</name>
+        <currency>South African Rand</currency>
+        <currencyAbb>ZAR</currencyAbb>
+        <currencySymbol>R</currencySymbol>
+        <convRate>15.990633</convRate>
+        <revConvRate>0.0625366</revConvRate>
+    </country>
+
+    <country>
+        <name>South Sudan</name>
+        <currency>South Sudanese Pound</currency>
+        <currencyAbb>SSP</currencyAbb>
+        <currencySymbol>SS£</currencySymbol>
+        <convRate>430.00</convRate>
+        <revConvRate>0.00232558</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Helena</name>
+        <currency>St. Helena Pound</currency>
+        <currencyAbb>SHP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.80873476</convRate>
+        <revConvRate>1.23650</revConvRate>
+    </country>
+
+    <country>
+        <name>Sudan</name>
+        <currency>Sudanese Pound</currency>
+        <currencyAbb>SDG</currencyAbb>
+        <currencySymbol>SD</currencySymbol>
+        <convRate>447.46504</convRate>
+        <revConvRate>0.00223481</revConvRate>
+    </country>
+
+    <country>
+        <name>São Tomé &amp; Príncipe</name>
+        <currency>São Tomé &amp; Príncipe Dobra</currency>
+        <currencyAbb>STN</currencyAbb>
+        <currencySymbol>Db</currencySymbol>
+        <convRate>23.369033</convRate>
+        <revConvRate>0.0427917</revConvRate>
+    </country>
+
+    <country>
+        <name>Tanzania</name>
+        <currency>Tanzanian Shilling</currency>
+        <currencyAbb>TZS</currencyAbb>
+        <currencySymbol>Tsh</currencySymbol>
+        <convRate>2325.0698</convRate>
+        <revConvRate>0.000430095</revConvRate>
+    </country>
+
+    <country>
+        <name>Togo</name>
+        <currency>West African CFA Franc</currency>
+        <currencyAbb>XOF</currencyAbb>
+        <currencySymbol>CFA</currencySymbol>
+        <convRate>622.51879</convRate>
+        <revConvRate>0.00160638</revConvRate>
+    </country>
+
+    <country>
+        <name>Tunisia</name>
+        <currency>Tunisian Dinar</currency>
+        <currencyAbb>TND</currencyAbb>
+        <currencySymbol>د.ت</currencySymbol>
+        <convRate>3.0691205</convRate>
+        <revConvRate>0.325826</revConvRate>
+    </country>
+
+    <country>
+        <name>Uganda</name>
+        <currency>Ugandan Shilling</currency>
+        <currencyAbb>UGX</currencyAbb>
+        <currencySymbol>Ush</currencySymbol>
+        <convRate>3550.8898</convRate>
+        <revConvRate>0.000281620</revConvRate>
+    </country>
+
+    <country>
+        <name>Western Sahara</name>
+        <currency>Moroccan Dirham</currency>
+        <currencyAbb>MAD</currencyAbb>
+        <currencySymbol>د.م.</currencySymbol>
+        <convRate>10.007922</convRate>
+        <revConvRate>0.0999208</revConvRate>
+    </country>
+
+    <country>
+        <name>Zambia</name>
+        <currency>Zambian Kwacha</currency>
+        <currencyAbb>ZMW</currencyAbb>
+        <currencySymbol>ZK</currencySymbol>
+        <convRate>17009.255</convRate>
+        <revConvRate>0.0000587915</revConvRate>
+    </country>
+
+    <country>
+        <name>Zimbabwe</name>
+        <currency>Zimbamwean Dollar</currency>
+        <currencyAbb>ZWL</currencyAbb>
+        <currencySymbol>Z$</currencySymbol>
+        <convRate>361.90</convRate>
+        <revConvRate>0.00276319</revConvRate>
+    </country>
+
+    <!-- Antarctica Countries -->
+    <country>
+        <name>Bouvet Island</name>
+        <currency>Norwegian Krone</currency>
+        <currencyAbb>NOK</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>9.4856792</convRate>
+        <revConvRate>0.105422</revConvRate>
+    </country>
+
+    <country>
+        <name>French Southern Territories</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94902378</convRate>
+        <revConvRate>1.05371</revConvRate>
+    </country>
+
+    <country>
+        <name>Heard &amp; McDonald Islands</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.4052756</convRate>
+        <revConvRate>0.711604</revConvRate>
+    </country>
+
+    <country>
+        <name>South Georgia &amp; South Sandwich Islands</name>
+        <currency>British Pound</currency>
+        <currencyAbb>GBP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.80873476</convRate>
+        <revConvRate>1.23650</revConvRate>
+    </country>
+
+    <!-- Asian Countries -->
+    <country>
+        <name>Afghanistan</name>
+        <currency>Afghanistan Afghani</currency>
+        <currencyAbb>AFN</currencyAbb>
+        <currencySymbol>؋</currencySymbol>
+        <convRate>86.219316</convRate>
+        <revConvRate>0.0115983</revConvRate>
+    </country>
+
+    <country>
+        <name>Armenia</name>
+        <currency>Armenian Dram</currency>
+        <currencyAbb>AMD</currencyAbb>
+        <currencySymbol>֏</currencySymbol>
+        <convRate>462.84524</convRate>
+        <revConvRate>0.00216055</revConvRate>
+    </country>
+
+    <country>
+        <name>Azerbaijan</name>
+        <currency>Azerbaijani Manat</currency>
+        <currencyAbb>AZD</currencyAbb>
+        <currencySymbol>₼</currencySymbol>
+        <convRate>1.6989782</convRate>
+        <revConvRate>0.588589</revConvRate>
+    </country>
+
+    <country>
+        <name>Bahrain</name>
+        <currency>Bahraini Dinar</currency>
+        <currencyAbb>BHD</currencyAbb>
+        <currencySymbol>د.ب.</currencySymbol>
+        <convRate>0.376</convRate>
+        <revConvRate>2.65957</revConvRate>
+    </country>
+
+    <country>
+        <name>Bangladesh</name>
+        <currency>Bangladeshi Taka</currency>
+        <currencyAbb>BDT</currencyAbb>
+        <currencySymbol>৳</currencySymbol>
+        <convRate>86.509795</convRate>
+        <revConvRate>0.0115594 </revConvRate>
+    </country>
+
+    <country>
+        <name>Bhutan</name>
+        <currency>Bhutanese Ngultrum</currency>
+        <currencyAbb>BTN</currencyAbb>
+        <currencySymbol>Nu</currencySymbol>
+        <convRate>76.536384</convRate>
+        <revConvRate>0.0130657</revConvRate>
+    </country>
+
+    <country>
+        <name>British Indian Ocean Territory</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1</convRate>
+        <revConvRate>1</revConvRate>
+    </country>
+
+    <country>
+        <name>Brunei</name>
+        <currency>Bruneian Dollar</currency>
+        <currencyAbb>BND</currencyAbb>
+        <currencySymbol>B$</currencySymbol>
+        <convRate>1.3843261</convRate>
+        <revConvRate>0.722373</revConvRate>
+    </country>
+
+    <country>
+        <name>Cambodia</name>
+        <currency>Cambodian Riel</currency>
+        <currencyAbb>KHR</currencyAbb>
+        <currencySymbol>៛</currencySymbol>
+        <convRate>1.3843261</convRate>
+        <revConvRate>0.722373</revConvRate>
+    </country>
+
+    <country>
+        <name>China</name>
+        <currency>Chinese Yuan</currency>
+        <currencyAbb>CNY</currencyAbb>
+        <currencySymbol>元</currencySymbol>
+        <convRate>6.6665826</convRate>
+        <revConvRate>0.150002</revConvRate>
+    </country>
+
+    <country>
+        <name>Christmas Island</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>Cocos(Keeling) Islands</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>Georgia</name>
+        <currency>Georgian Lari</currency>
+        <currencyAbb>GEL</currencyAbb>
+        <currencySymbol>₾</currencySymbol>
+        <convRate>3.0318012</convRate>
+        <revConvRate>0.329837</revConvRate>
+    </country>
+
+    <country>
+        <name>Hong Kong SAR China</name>
+        <currency>Hong Kong Dollar</currency>
+        <currencyAbb>HKD</currencyAbb>
+        <currencySymbol>元</currencySymbol>
+        <convRate>7.8498553</convRate>
+        <revConvRate>0.127391</revConvRate>
+    </country>
+
+    <country>
+        <name>India</name>
+        <currency>Indian</currency>
+        <currencyAbb>INR</currencyAbb>
+        <currencySymbol>₹</currencySymbol>
+        <convRate>76.957743</convRate>
+        <revConvRate>0.0129941</revConvRate>
+    </country>
+
+    <country>
+        <name>Indonesia</name>
+        <currency>Indonesian Rupiah</currency>
+        <currencyAbb>IDR</currencyAbb>
+        <currencySymbol>Rp</currencySymbol>
+        <convRate>14485.71</convRate>
+        <revConvRate>0.0000690336</revConvRate>
+    </country>
+
+    <country>
+        <name>Iran</name>
+        <currency>Iranian Rial</currency>
+        <currencyAbb>IRR</currencyAbb>
+        <currencySymbol>﷼</currencySymbol>
+        <convRate>42025.558</convRate>
+        <revConvRate>0.0000237950</revConvRate>
+    </country>
+
+    <country>
+        <name>Iraq</name>
+        <currency>Iraqi Dinar</currency>
+        <currencyAbb>IQD</currencyAbb>
+        <currencySymbol>د.ع</currencySymbol>
+        <convRate>1459.6345</convRate>
+        <revConvRate>0.000685103</revConvRate>
+    </country>
+
+    <country>
+        <name>Israel</name>
+        <currency>Israeli New Shekel</currency>
+        <currencyAbb>ILS</currencyAbb>
+        <currencySymbol>₪</currencySymbol>
+        <convRate>3.403107</convRate>
+        <revConvRate>0.293849</revConvRate>
+    </country>
+
+    <country>
+        <name>Japan</name>
+        <currency>Japanese Yen</currency>
+        <currencyAbb>JPY</currencyAbb>
+        <currencySymbol>¥</currencySymbol>
+        <convRate>130.534</convRate>
+        <revConvRate>0.00766084</revConvRate>
+    </country>
+
+    <country>
+        <name>Jordan</name>
+        <currency>Jordanian Dinar</currency>
+        <currencyAbb>JOD</currencyAbb>
+        <currencySymbol>JD</currencySymbol>
+        <convRate>0.709</convRate>
+        <revConvRate>1.41044 </revConvRate>
+    </country>
+
+    <country>
+        <name>Kazakhstan</name>
+        <currency>Kazakhstani Tenge</currency>
+        <currencyAbb>KZT</currencyAbb>
+        <currencySymbol>₸</currencySymbol>
+        <convRate>439.13406</convRate>
+        <revConvRate>0.00227721</revConvRate>
+    </country>
+
+    <country>
+        <name>Kuwait</name>
+        <currency>Kuwaiti Dinar</currency>
+        <currencyAbb>KWD</currencyAbb>
+        <currencySymbol>د.ك</currencySymbol>
+        <convRate>0.30709793</convRate>
+        <revConvRate>3.25629</revConvRate>
+    </country>
+
+    <country>
+        <name>Kyrgyzstan</name>
+        <currency>Kyrgyzstani Som</currency>
+        <currencyAbb>KGS</currencyAbb>
+        <currencySymbol>сом</currencySymbol>
+        <convRate>0.30709793</convRate>
+        <revConvRate>3.25629</revConvRate>
+    </country>
+
+    <country>
+        <name>Laos</name>
+        <currency>Laotian Kip</currency>
+        <currencyAbb>LAK</currencyAbb>
+        <currencySymbol>₭</currencySymbol>
+        <convRate>12381.252</convRate>
+        <revConvRate>0.0000807673</revConvRate>
+    </country>
+
+    <country>
+        <name>Lebanon</name>
+        <currency>Lebanese Pound</currency>
+        <currencyAbb>LBP</currencyAbb>
+        <currencySymbol>LL</currencySymbol>
+        <convRate>1507.50</convRate>
+        <revConvRate>0.000663350</revConvRate>
+    </country>
+
+    <country>
+        <name>Macau SAR China</name>
+        <currency>Macau Pataca</currency>
+        <currencyAbb>MOP</currencyAbb>
+        <currencySymbol>MOP$</currencySymbol>
+        <convRate>8.085351</convRate>
+        <revConvRate>0.123680</revConvRate>
+    </country>
+
+    <country>
+        <name>Malaysia</name>
+        <currency>Malaysian Ringgit</currency>
+        <currencyAbb>MYR</currencyAbb>
+        <currencySymbol>RM</currencySymbol>
+        <convRate>4.3705544</convRate>
+        <revConvRate>0.228804</revConvRate>
+    </country>
+
+    <country>
+        <name>Maldives</name>
+        <currency>Maldivian Rufiyaa</currency>
+        <currencyAbb>MVR</currencyAbb>
+        <currencySymbol>Rf.</currencySymbol>
+        <convRate>15.459745</convRate>
+        <revConvRate>0.0646841</revConvRate>
+    </country>
+
+    <country>
+        <name>Mongolia</name>
+        <currency>Mongolian Tugrik</currency>
+        <currencyAbb>MNT</currencyAbb>
+        <currencySymbol>₮</currencySymbol>
+        <convRate>3104.3234</convRate>
+        <revConvRate>0.000322131</revConvRate>
+    </country>
+
+    <country>
+        <name>Myanmar (Burma)</name>
+        <currency>Myanmar Kyat (Burmese Kyat)</currency>
+        <currencyAbb>MMK</currencyAbb>
+        <currencySymbol>K</currencySymbol>
+        <convRate>1854.5425</convRate>
+        <revConvRate>0.000539217</revConvRate>
+    </country>
+
+    <country>
+        <name>Nepal</name>
+        <currency>Nepalese Rupee</currency>
+        <currencyAbb>NPR</currencyAbb>
+        <currencySymbol>Rs</currencySymbol>
+        <convRate>123.19011</convRate>
+        <revConvRate>0.00811753</revConvRate>
+    </country>
+
+    <country>
+        <name>North Korea</name>
+        <currency>North Korean Won</currency>
+        <currencyAbb>KPW</currencyAbb>
+        <currencySymbol>₩</currencySymbol>
+        <convRate>900.00</convRate>
+        <revConvRate>0.00111111</revConvRate>
+    </country>
+
+    <country>
+        <name>Oman</name>
+        <currency>Omanian Rial</currency>
+        <currencyAbb>OMR</currencyAbb>
+        <currencySymbol>ر.ع.</currencySymbol>
+        <convRate>0.3845</convRate>
+        <revConvRate>2.60078</revConvRate>
+    </country>
+
+    <country>
+        <name>Palistan</name>
+        <currency>Pakistani Rupee</currency>
+        <currencyAbb>PKR</currencyAbb>
+        <currencySymbol>Rs</currencySymbol>
+        <convRate>185.57313</convRate>
+        <revConvRate>0.00538871</revConvRate>
+    </country>
+
+    <country>
+        <name>Palestinian Territories</name>
+        <currency>Israeli New Shekel</currency>
+        <currencyAbb>ILS</currencyAbb>
+        <currencySymbol>₪</currencySymbol>
+        <convRate>3.403107</convRate>
+        <revConvRate>0.293849</revConvRate>
+    </country>
+
+    <country>
+        <name>Philippines</name>
+        <currency>Philippine Peso</currency>
+        <currencyAbb>PHP</currencyAbb>
+        <currencySymbol>₱</currencySymbol>
+        <convRate>52.436419</convRate>
+        <revConvRate>0.0190707</revConvRate>
+    </country>
+
+    <country>
+        <name>Qatar</name>
+        <currency>Qatari Rial</currency>
+        <currencyAbb>QAR</currencyAbb>
+        <currencySymbol>ر.ق</currencySymbol>
+        <convRate>3.64</convRate>
+        <revConvRate>0.274725</revConvRate>
+    </country>
+
+    <country>
+        <name>Saudi Arabia</name>
+        <currency>Saudi Rial</currency>
+        <currencyAbb>SAR</currencyAbb>
+        <currencySymbol>ر.س</currencySymbol>
+        <convRate>3.75</convRate>
+        <revConvRate>0.266667</revConvRate>
+    </country>
+
+    <country>
+        <name>Singapore</name>
+        <currency>Singapore Dollar</currency>
+        <currencyAbb>SGD</currencyAbb>
+        <currencySymbol>S$</currencySymbol>
+        <convRate>1.3854048</convRate>
+        <revConvRate>0.721811</revConvRate>
+    </country>
+
+    <country>
+        <name>South Korea</name>
+        <currency>South Korean Won</currency>
+        <currencyAbb>KRW</currencyAbb>
+        <currencySymbol>₩</currencySymbol>
+        <convRate>1270.7299</convRate>
+        <revConvRate>0.000786949</revConvRate>
+    </country>
+
+    <country>
+        <name>Sri Lanka</name>
+        <currency>Sri Lankan Rupee</currency>
+        <currencyAbb>LKR</currencyAbb>
+        <currencySymbol>Rs</currencySymbol>
+        <convRate>359.99926</convRate>
+        <revConvRate>0.00277778</revConvRate>
+    </country>
+
+    <country>
+        <name>Syria</name>
+        <currency>Syrian Pound</currency>
+        <currencyAbb>SYP</currencyAbb>
+        <currencySymbol>£S</currencySymbol>
+        <convRate>2512.5274</convRate>
+        <revConvRate>0.000398006</revConvRate>
+    </country>
+
+    <country>
+        <name>Taiwan</name>
+        <currency>New Taiwan Dollar</currency>
+        <currencyAbb>TWD</currencyAbb>
+        <currencySymbol>NT$</currencySymbol>
+        <convRate>29.698971</convRate>
+        <revConvRate>0.0336712</revConvRate>
+    </country>
+
+    <country>
+        <name>Tajikstan</name>
+        <currency>Tajikstani Somoni</currency>
+        <currencyAbb>TJS</currencyAbb>
+        <currencySymbol>SM</currencySymbol>
+        <convRate>12.460644</convRate>
+        <revConvRate>0.0802527</revConvRate>
+    </country>
+
+    <country>
+        <name>Thailand</name>
+        <currency>Thai Baht</currency>
+        <currencyAbb>THB</currencyAbb>
+        <currencySymbol>฿</currencySymbol>
+        <convRate>34.337778</convRate>
+        <revConvRate>0.0291224</revConvRate>
+    </country>
+
+    <country>
+        <name>Turkey</name>
+        <currency>Turkish Lira</currency>
+        <currencyAbb>TRY</currencyAbb>
+        <currencySymbol>₺</currencySymbol>
+        <convRate>14.952042</convRate>
+        <revConvRate>0.0668805</revConvRate>
+    </country>
+
+    <country>
+        <name>Turkmenistan</name>
+        <currency>Turkmenistani Manat</currency>
+        <currencyAbb>TMT</currencyAbb>
+        <currencySymbol>T</currencySymbol>
+        <convRate>3.4998833</convRate>
+        <revConvRate>0.285724</revConvRate>
+    </country>
+
+    <country>
+        <name>United Arab Emirates</name>
+        <currency>United Arab Emirates Dirham</currency>
+        <currencyAbb>AED</currencyAbb>
+        <currencySymbol>د.إ</currencySymbol>
+        <convRate>3.6725</convRate>
+        <revConvRate>0.272294</revConvRate>
+    </country>
+
+    <country>
+        <name>Uzbekistan</name>
+        <currency>Uzbekistani Som</currency>
+        <currencyAbb>UZS</currencyAbb>
+        <currencySymbol>лв</currencySymbol>
+        <convRate>11137.50</convRate>
+        <revConvRate>0.0000897868</revConvRate>
+    </country>
+
+    <country>
+        <name>Vietnam</name>
+        <currency>Vietnamese Dong</currency>
+        <currencyAbb>VND</currencyAbb>
+        <currencySymbol>₫</currencySymbol>
+        <convRate>22999.045</convRate>
+        <revConvRate>0.0000434801</revConvRate>
+    </country>
+
+    <country>
+        <name>Yemen</name>
+        <currency>Yemeni Rial</currency>
+        <currencyAbb>YER</currencyAbb>
+        <currencySymbol>ر.ي</currencySymbol>
+        <convRate>250.19994</convRate>
+        <revConvRate>0.00399680</revConvRate>
+    </country>
+
+    <!-- European Countries -->
+    <country>
+        <name>Albania</name>
+        <currency>Albanian Lek</currency>
+        <currencyAbb>ALL</currencyAbb>
+        <currencySymbol>L</currencySymbol>
+        <convRate>114.00147</convRate>
+        <revConvRate>0.00877182</revConvRate>
+    </country>
+
+    <country>
+        <name>Andorra</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Ausrtria</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Belarus</name>
+        <currency>Belarusian Ruble</currency>
+        <currencyAbb>BYN</currencyAbb>
+        <currencySymbol>Br</currencySymbol>
+        <convRate>3.3750001</convRate>
+        <revConvRate>0.296296 </revConvRate>
+    </country>
+
+    <country>
+        <name>Belgium</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Bosnia &amp; Herzegovina</name>
+        <currency>Bosnia-Herzegovina Convertible Mark</currency>
+        <currencyAbb>BAM</currencyAbb>
+        <currencySymbol>KM</currencySymbol>
+        <convRate>1.8521613</convRate>
+        <revConvRate>0.539910</revConvRate>
+    </country>
+
+    <country>
+        <name>Bulgaria</name>
+        <currency>Bulgarian Lev</currency>
+        <currencyAbb>BGN</currencyAbb>
+        <currencySymbol>лв</currencySymbol>
+        <convRate>1.8521613</convRate>
+        <revConvRate>0.539910</revConvRate>
+    </country>
+
+    <country>
+        <name>Croatia</name>
+        <currency>Croatian Kuna</currency>
+        <currencyAbb>HRK</currencyAbb>
+        <currencySymbol>kn</currencySymbol>
+        <convRate>7.1370078</convRate>
+        <revConvRate>0.140115</revConvRate>
+    </country>
+
+    <country>
+        <name>Cyprus</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Czechia</name>
+        <currency>Czech Koruna</currency>
+        <currencyAbb>CZK</currencyAbb>
+        <currencySymbol>Kč</currencySymbol>
+        <convRate>23.724882</convRate>
+        <revConvRate>0.0421498</revConvRate>
+    </country>
+
+    <country>
+        <name>Denmark</name>
+        <currency>Danish Krone</currency>
+        <currencyAbb>Dkk</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>7.0531949</convRate>
+        <revConvRate>0.141780</revConvRate>
+    </country>
+
+    <country>
+        <name>Estonia</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Faroe Islands</name>
+        <currency>Danish Krone</currency>
+        <currencyAbb>Dkk</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>7.0531949</convRate>
+        <revConvRate>0.141780</revConvRate>
+    </country>
+
+    <country>
+        <name>Finland</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>France</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Germany</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Gibraltar</name>
+        <currency>Gibraltar Paound</currency>
+        <currencyAbb>GIP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.81049641</convRate>
+        <revConvRate>1.23381</revConvRate>
+    </country>
+
+    <country>
+        <name>Greece</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Guernsey</name>
+        <currency>British Pound</currency>
+        <currencyAbb>GBP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.81049641</convRate>
+        <revConvRate>1.23381</revConvRate>
+    </country>
+
+    <country>
+        <name>Hungary</name>
+        <currency>Hungarian Forint</currency>
+        <currencyAbb>HUF</currencyAbb>
+        <currencySymbol>Ft</currencySymbol>
+        <convRate>362.14776</convRate>
+        <revConvRate>0.00276130</revConvRate>
+    </country>
+
+    <country>
+        <name>Iceland</name>
+        <currency>Icelandic Króna</currency>
+        <currencyAbb>ISK</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>131.64945</convRate>
+        <revConvRate>0.00759593</revConvRate>
+    </country>
+
+    <country>
+        <name>Ireland</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Isle of Man</name>
+        <currency>British Pound</currency>
+        <currencyAbb>GBP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.81049641</convRate>
+        <revConvRate>1.23381</revConvRate>
+    </country>
+
+    <country>
+        <name>Italy</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Jersey</name>
+        <currency>British Pound</currency>
+        <currencyAbb>GBP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.81049641</convRate>
+        <revConvRate>1.23381</revConvRate>
+    </country>
+
+    <country>
+        <name>Kosovo</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Latvia</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Liechtenstein</name>
+        <currency>Swiss Franc</currency>
+        <currencyAbb>CHF</currencyAbb>
+        <currencySymbol>SFr</currencySymbol>
+        <convRate>0.98909323</convRate>
+        <revConvRate>1.01103</revConvRate>
+    </country>
+
+    <country>
+        <name>Lithuania</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Luxembourg</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Malta</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Moldova</name>
+        <currency>Moldovan Leu</currency>
+        <currencyAbb>MDL</currencyAbb>
+        <currencySymbol>mdl</currencySymbol>
+        <convRate>18.750758</convRate>
+        <revConvRate>0.0533312</revConvRate>
+    </country>
+
+    <country>
+        <name>Monaco</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Montenegro</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Netherlands</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>North Macedonia</name>
+        <currency>Macedonian Denar</currency>
+        <currencyAbb>MKD</currencyAbb>
+        <currencySymbol>ден</currencySymbol>
+        <convRate>58.339402</convRate>
+        <revConvRate>0.0171411</revConvRate>
+    </country>
+
+    <country>
+        <name>Norway</name>
+        <currency>Norwegian Krone</currency>
+        <currencyAbb>NOK</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>9.4700152</convRate>
+        <revConvRate>0.105596</revConvRate>
+    </country>
+
+    <country>
+        <name>Poland</name>
+        <currency>Polish Zloty</currency>
+        <currencyAbb>PLN</currencyAbb>
+        <currencySymbol>zł</currencySymbol>
+        <convRate>4.4703157</convRate>
+        <revConvRate>0.223698</revConvRate>
+    </country>
+
+    <country>
+        <name>Portugal</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Romania</name>
+        <currency>Romanian Leu</currency>
+        <currencyAbb>RON</currencyAbb>
+        <currencySymbol>lei</currencySymbol>
+        <convRate>4.6898112</convRate>
+        <revConvRate>0.213228</revConvRate>
+    </country>
+
+    <country>
+        <name>Russia</name>
+        <currency>Russian Ruble</currency>
+        <currencyAbb>RUB</currencyAbb>
+        <currencySymbol>₽</currencySymbol>
+        <convRate>68.250033</convRate>
+        <revConvRate>0.0146520</revConvRate>
+    </country>
+
+    <country>
+        <name>San Marino</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Serbia</name>
+        <currency>Serbian Dinar</currency>
+        <currencyAbb>RSD</currencyAbb>
+        <currencySymbol>дин</currencySymbol>
+        <convRate>111.44557</convRate>
+        <revConvRate>0.00897299</revConvRate>
+    </country>
+
+    <country>
+        <name>Slovakia</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Slovenia</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Spain</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Svalbard &amp; Jan Mayen</name>
+        <currency>Norwegian Krone</currency>
+        <currencyAbb>NOK</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>9.4700152</convRate>
+        <revConvRate>0.105596</revConvRate>
+    </country>
+
+    <country>
+        <name>Sweden</name>
+        <currency>Swedish Krona</currency>
+        <currencyAbb>SEK</currencyAbb>
+        <currencySymbol>Kr</currencySymbol>
+        <convRate>9.9508684</convRate>
+        <revConvRate>0.100494</revConvRate>
+    </country>
+
+    <country>
+        <name>Switzerland</name>
+        <currency>Swiss Franc</currency>
+        <currencyAbb>CHF</currencyAbb>
+        <currencySymbol>SFr</currencySymbol>
+        <convRate>0.98909323</convRate>
+        <revConvRate>1.01103</revConvRate>
+    </country>
+
+    <country>
+        <name>Ukraine</name>
+        <currency>Ukrainian Hryvnia</currency>
+        <currencyAbb>UAH</currencyAbb>
+        <currencySymbol>₴</currencySymbol>
+        <convRate>29.644754</convRate>
+        <revConvRate>0.0337328</revConvRate>
+    </country>
+
+    <country>
+        <name>United Kingdom</name>
+        <currency>British Pound</currency>
+        <currencyAbb>GBP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.81049641</convRate>
+        <revConvRate>1.23381</revConvRate>
+    </country>
+
+    <country>
+        <name>Vatican City</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Åland Islands</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <!-- North America -->
+
+    <country>
+        <name>Anguilla</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>Antigua %amp; Barbuda</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>Aruba</name>
+        <currency>Aruban Florin</currency>
+        <currencyAbb>AWG</currencyAbb>
+        <currencySymbol>Afl</currencySymbol>
+        <convRate>1.79</convRate>
+        <revConvRate>0.558659</revConvRate>
+    </country>
+
+    <country>
+        <name>Bahamas</name>
+        <currency>Bahamian Dollar</currency>
+        <currencyAbb>BSD</currencyAbb>
+        <currencySymbol>B$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Barbados</name>
+        <currency>Bahamian Dollar</currency>
+        <currencyAbb>BBD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>2.0</convRate>
+        <revConvRate>0.5</revConvRate>
+    </country>
+
+    <country>
+        <name>Belize</name>
+        <currency>Belize Dollar</currency>
+        <currencyAbb>BZD</currencyAbb>
+        <currencySymbol>BZ$</currencySymbol>
+        <convRate>2.0152041</convRate>
+        <revConvRate>0.496228</revConvRate>
+    </country>
+
+    <country>
+        <name>Bermuda</name>
+        <currency>Bermudian Dollar</currency>
+        <currencyAbb>BMD</currencyAbb>
+        <currencySymbol>BD$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>British Virgin Islands</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Canada</name>
+        <currency>Canadian Dollar</currency>
+        <currencyAbb>CAD</currencyAbb>
+        <currencySymbol>C$</currencySymbol>
+        <convRate>1.2888236</convRate>
+        <revConvRate>0.775901</revConvRate>
+    </country>
+
+    <country>
+        <name>Caribbean Netherlands</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Cayman Islands</name>
+        <currency>Caymanian Dollar</currency>
+        <currencyAbb>KYD</currencyAbb>
+        <currencySymbol>CI$</currencySymbol>
+        <convRate>0.82000424</convRate>
+        <revConvRate>1.21951</revConvRate>
+    </country>
+
+    <country>
+        <name>Costa Rica</name>
+        <currency>Costa Rican Colón</currency>
+        <currencyAbb>CRC</currencyAbb>
+        <currencySymbol>₡</currencySymbol>
+        <convRate>669.38678</convRate>
+        <revConvRate>0.00149390</revConvRate>
+    </country>
+
+    <country>
+        <name>Cuba</name>
+        <currency>Cuban Peso</currency>
+        <currencyAbb>CUP</currencyAbb>
+        <currencySymbol>C$</currencySymbol>
+        <convRate>0.0400000</convRate>
+        <revConvRate>0.0400000</revConvRate>
+    </country>
+
+    <country>
+        <name>Curaçao</name>
+        <currency>Netherlands Antillean Guilder</currency>
+        <currencyAbb>ANG</currencyAbb>
+        <currencySymbol>NAƒ</currencySymbol>
+        <convRate>1.7875002</convRate>
+        <revConvRate>0.559440</revConvRate>
+    </country>
+
+    <country>
+        <name>Dominica</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>Dominican Republic</name>
+        <currency>Dominican Peso</currency>
+        <currencyAbb>DOP</currencyAbb>
+        <currencySymbol>RD$</currencySymbol>
+        <convRate>55.050653</convRate>
+        <revConvRate>0.0181651</revConvRate>
+    </country>
+
+    <country>
+        <name>El Salvador</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Greenland</name>
+        <currency>Danish Krone</currency>
+        <currencyAbb>DKK</currencyAbb>
+        <currencySymbol>kr</currencySymbol>
+        <convRate>7.0531949</convRate>
+        <revConvRate>0.141780</revConvRate>
+    </country>
+
+    <country>
+        <name>Grenada</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>Guadeloupe</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Guatemala</name>
+        <currency>Guatemalan Quetzal</currency>
+        <currencyAbb>GTQ</currencyAbb>
+        <currencySymbol>Q</currencySymbol>
+        <convRate>7.6688958</convRate>
+        <revConvRate>0.130397</revConvRate>
+    </country>
+
+    <country>
+        <name>Haiti</name>
+        <currency>Haitian Gourde</currency>
+        <currencyAbb>HTG</currencyAbb>
+        <currencySymbol>G</currencySymbol>
+        <convRate>110.49833</convRate>
+        <revConvRate>0.00904991</revConvRate>
+    </country>
+
+    <country>
+        <name>Honduras</name>
+        <currency>Honduran Lempira</currency>
+        <currencyAbb>HNL</currencyAbb>
+        <currencySymbol>L</currencySymbol>
+        <convRate>24.367156</convRate>
+        <revConvRate>0.0410388</revConvRate>
+    </country>
+
+    <country>
+        <name>Jamaica</name>
+        <currency>Jamaican Dollar</currency>
+        <currencyAbb>JMD</currencyAbb>
+        <currencySymbol>J$</currencySymbol>
+        <convRate>153.98397</convRate>
+        <revConvRate>0.00649418</revConvRate>
+    </country>
+
+    <country>
+        <name>Martinique</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Mexico</name>
+        <currency>Mexican Peso</currency>
+        <currencyAbb>MXN</currencyAbb>
+        <currencySymbol>Mex$</currencySymbol>
+        <convRate>20.18417</convRate>
+        <revConvRate>0.0495438</revConvRate>
+    </country>
+
+    <country>
+        <name>Montserrat</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>Nicaragua</name>
+        <currency>Nicaraguan Córdoba</currency>
+        <currencyAbb>NIO</currencyAbb>
+        <currencySymbol>C$</currencySymbol>
+        <convRate>35.770231</convRate>
+        <revConvRate>0.0279562</revConvRate>
+    </country>
+
+    <country>
+        <name>Panama</name>
+        <currency>Panamanian Balboa</currency>
+        <currencyAbb>PAB</currencyAbb>
+        <currencySymbol>B/.</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Puerto Rico</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Sint Maarten</name>
+        <currency>Netherlands Antillean Guilder</currency>
+        <currencyAbb>ANG</currencyAbb>
+        <currencySymbol>NAƒ</currencySymbol>
+        <convRate>1.7875002</convRate>
+        <revConvRate>0.559440</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Barthelemy</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Kitts &amp; Nevis</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Lucia</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Martin</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Pierr &amp; Miquelon</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>St. Vincent &amp; Grenadines</name>
+        <currency>East Caribbean Dollar</currency>
+        <currencyAbb>XCD</currencyAbb>
+        <currencySymbol>EC$</currencySymbol>
+        <convRate>2.7000002</convRate>
+        <revConvRate>0.370370</revConvRate>
+    </country>
+
+    <country>
+        <name>Trinadad &amp; Tabago</name>
+        <currency>Trinadad &amp; Tabago Dollar</currency>
+        <currencyAbb>TTD</currencyAbb>
+        <currencySymbol>TT$</currencySymbol>
+        <convRate>6.7963238</convRate>
+        <revConvRate>0.147138</revConvRate>
+    </country>
+
+    <country>
+        <name>Turks &amp; Caicos Islands</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>US Virgin Islands</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>United States</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <!-- Oceania Islands -->
+    <country>
+        <name>American Samoa</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Australia</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>Cook Islands</name>
+        <currency>New Zealand Dollar</currency>
+        <currencyAbb>NZD</currencyAbb>
+        <currencySymbol>NZ$</currencySymbol>
+        <convRate>1.5604842</convRate>
+        <revConvRate>0.640827</revConvRate>
+    </country>
+
+    <country>
+        <name>Fiji</name>
+        <currency>Fijian Dollar</currency>
+        <currencyAbb>FJD</currencyAbb>
+        <currencySymbol>FJ$</currencySymbol>
+        <convRate>2.1775056</convRate>
+        <revConvRate>0.459241</revConvRate>
+    </country>
+
+    <country>
+        <name>French Polynesia</name>
+        <currency>CPF Franc</currency>
+        <currencyAbb>XPF</currencyAbb>
+        <currencySymbol>F</currencySymbol>
+        <convRate>113.00657</convRate>
+        <revConvRate>0.00884904</revConvRate>
+    </country>
+
+    <country>
+        <name>Guam</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Kiribati</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>Marshall Islands</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Micronesia</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Nauru</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>New Caledonia</name>
+        <currency>CFP Franc</currency>
+        <currencyAbb>XPF</currencyAbb>
+        <currencySymbol>F</currencySymbol>
+        <convRate>113.00657</convRate>
+        <revConvRate>0.00884904</revConvRate>
+    </country>
+
+    <country>
+        <name>New Zealand</name>
+        <currency>New Zealand Dollar</currency>
+        <currencyAbb>NZD</currencyAbb>
+        <currencySymbol>NZ$</currencySymbol>
+        <convRate>1.5604842</convRate>
+        <revConvRate>0.640827</revConvRate>
+    </country>
+
+    <country>
+        <name>Niue</name>
+        <currency>New Zealand Dollar</currency>
+        <currencyAbb>NZD</currencyAbb>
+        <currencySymbol>NZ$</currencySymbol>
+        <convRate>1.5604842</convRate>
+        <revConvRate>0.640827</revConvRate>
+    </country>
+
+    <country>
+        <name>Norfolk Island</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>Northern Mariana</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Palau</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Papua New Guinea</name>
+        <currency>Papua New Guinean Kina</currency>
+        <currencyAbb>PGK</currencyAbb>
+        <currencySymbol>K</currencySymbol>
+        <convRate>3.5100349</convRate>
+        <revConvRate>0.284897</revConvRate>
+    </country>
+
+    <country>
+        <name>Pitcairn Islands</name>
+        <currency>New Zealand Dollar</currency>
+        <currencyAbb>NZD</currencyAbb>
+        <currencySymbol>NZ$</currencySymbol>
+        <convRate>1.5604842</convRate>
+        <revConvRate>0.640827</revConvRate>
+    </country>
+
+    <country>
+        <name>Samoa</name>
+        <currency>Samoan Tala</currency>
+        <currencyAbb>WST</currencyAbb>
+        <currencySymbol>WS$</currencySymbol>
+        <convRate>2.5773078</convRate>
+        <revConvRate>0.388002</revConvRate>
+    </country>
+
+    <country>
+        <name>Solomon Islands</name>
+        <currency>Solomon Islands Dollar</currency>
+        <currencyAbb>SBD</currencyAbb>
+        <currencySymbol>SI$</currencySymbol>
+        <convRate>8.074292</convRate>
+        <revConvRate>0.123850</revConvRate>
+    </country>
+
+    <country>
+        <name>Timor-Leste</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Tokelau</name>
+        <currency>New Zealand Dollar</currency>
+        <currencyAbb>NZD</currencyAbb>
+        <currencySymbol>NZ$</currencySymbol>
+        <convRate>1.5604842</convRate>
+        <revConvRate>0.640827</revConvRate>
+    </country>
+
+    <country>
+        <name>Tonga</name>
+        <currency>Tongan Pa'anga</currency>
+        <currencyAbb>TOP</currencyAbb>
+        <currencySymbol>T$</currencySymbol>
+        <convRate>2.3201942</convRate>
+        <revConvRate>0.430998</revConvRate>
+    </country>
+
+    <country>
+        <name>Tuvalu</name>
+        <currency>Australian Dollar</currency>
+        <currencyAbb>AUD</currencyAbb>
+        <currencySymbol>A$</currencySymbol>
+        <convRate>1.413654</convRate>
+        <revConvRate>0.707387</revConvRate>
+    </country>
+
+    <country>
+        <name>U.S. Outlying Islands</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Vanuatu</name>
+        <currency>Ni-Vanuatu Vatu</currency>
+        <currencyAbb>VUV</currencyAbb>
+        <currencySymbol>VT</currencySymbol>
+        <convRate>114.82624</convRate>
+        <revConvRate>0.00870881</revConvRate>
+    </country>
+
+    <country>
+        <name>Wallis &amp; Futuna</name>
+        <currency>CFP Franc</currency>
+        <currencyAbb>XPF</currencyAbb>
+        <currencySymbol>F</currencySymbol>
+        <convRate>113.00657</convRate>
+        <revConvRate>0.00884904</revConvRate>
+    </country>
+
+    <!-- South America -->
+    <country>
+        <name>Argentina</name>
+        <currency>Argentine Peso</currency>
+        <currencyAbb>ARS</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>116.17635</convRate>
+        <revConvRate>0.00860760</revConvRate>
+    </country>
+
+    <country>
+        <name>Bolivia</name>
+        <currency>Bolivian Boliviano</currency>
+        <currencyAbb>BOB</currencyAbb>
+        <currencySymbol>$b</currencySymbol>
+        <convRate>6.8649968</convRate>
+        <revConvRate>0.145666</revConvRate>
+    </country>
+
+    <country>
+        <name>Brazil</name>
+        <currency>Brazilian Real</currency>
+        <currencyAbb>BRL</currencyAbb>
+        <currencySymbol>R$</currencySymbol>
+        <convRate>5.0792457</convRate>
+        <revConvRate>0.196880</revConvRate>
+    </country>
+
+    <country>
+        <name>Chile</name>
+        <currency>Chilean Peso</currency>
+        <currencyAbb>CLP</currencyAbb>
+        <currencySymbol>CLP$</currencySymbol>
+        <convRate>859.01481</convRate>
+        <revConvRate>0.00116412</revConvRate>
+    </country>
+
+    <country>
+        <name>Colombia</name>
+        <currency>Colombian Peso</currency>
+        <currencyAbb>COP</currencyAbb>
+        <currencySymbol>COL$</currencySymbol>
+        <convRate>4051.6833</convRate>
+        <revConvRate>0.000246811</revConvRate>
+    </country>
+
+    <country>
+        <name>Equador</name>
+        <currency>US Dollar</currency>
+        <currencyAbb>USD</currencyAbb>
+        <currencySymbol>$</currencySymbol>
+        <convRate>1.0</convRate>
+        <revConvRate>1.0</revConvRate>
+    </country>
+
+    <country>
+        <name>Falkand Islands</name>
+        <currency>Falkand Islands Pound</currency>
+        <currencyAbb>FKP</currencyAbb>
+        <currencySymbol>£</currencySymbol>
+        <convRate>0.81049641</convRate>
+        <revConvRate>1.23381</revConvRate>
+    </country>
+
+    <country>
+        <name>French Guiana</name>
+        <currency>Euro</currency>
+        <currencyAbb>EUR</currencyAbb>
+        <currencySymbol>€</currencySymbol>
+        <convRate>0.94699502</convRate>
+        <revConvRate>1.05597</revConvRate>
+    </country>
+
+    <country>
+        <name>Guayana</name>
+        <currency>Guayanese Dollar</currency>
+        <currencyAbb>GYD</currencyAbb>
+        <currencySymbol>G$</currencySymbol>
+        <convRate>209.78349</convRate>
+        <revConvRate>0.00476682</revConvRate>
+    </country>
+
+    <country>
+        <name>Paraguay</name>
+        <currency>Paraguayan Guarani</currency>
+        <currencyAbb>PYG</currencyAbb>
+        <currencySymbol>₲</currencySymbol>
+        <convRate>6853.6334</convRate>
+        <revConvRate>0.000145908</revConvRate>
+    </country>
+
+    <country>
+        <name>Peru</name>
+        <currency>Peruvian Sol</currency>
+        <currencyAbb>PEN</currencyAbb>
+        <currencySymbol>S/</currencySymbol>
+        <convRate>3.8084961</convRate>
+        <revConvRate>0.262571</revConvRate>
+    </country>
+
+    <country>
+        <name>Suriname</name>
+        <currency>Surinamese Dollar</currency>
+        <currencyAbb>SRD</currencyAbb>
+        <currencySymbol>SR$</currencySymbol>
+        <convRate>21.161844</convRate>
+        <revConvRate>0.0472549</revConvRate>
+    </country>
+
+    <country>
+        <name>Uruguay</name>
+        <currency>Uruguayan Peso</currency>
+        <currencyAbb>UYU</currencyAbb>
+        <currencySymbol>U$</currencySymbol>
+        <convRate>41.540148</convRate>
+        <revConvRate>0.0240731</revConvRate>
+    </country>
+
+    <country>
+        <name>Venezuela</name>
+        <currency>Venezuelan Bolívar</currency>
+        <currencyAbb>VES</currencyAbb>
+        <currencySymbol>Bs</currencySymbol>
+        <convRate>4.5543655</convRate>
+        <revConvRate>0.219570</revConvRate>
+    </country>
+
+</countries>
